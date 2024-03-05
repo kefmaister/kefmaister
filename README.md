@@ -15,7 +15,7 @@ const kevin = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, SQL, PHP],
   codeTools: [Node, Handlebars, Styled - Components, SQlite3, Express, Handlebars, Knex, Objection],
-  designTools: [Figma, Illustrator, Photoshop,]
+  designTools: [Figma, Illustrator, Photoshop],
   hobbies: [Singing, Dancing, Gaming, TableTennis, Photography]
 };
 ```
