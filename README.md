@@ -3,7 +3,7 @@
 <p><em>Programmer At <a href="https://programmeren.gent/">Artevelde University For Applied Science</a><img src="https://magiccopy.xyz/assets/images/hadder.gif" width="30"></br>Waiter at <a href="https://www.kwizienmaldegem.be/home">Kwizien</a><img src="https://giphy.com/gifs/cartoon-black-Fa69v6AU6oN4i0DZZc" width="30"> 
 </em></p>
 
-[![Instagram:kd.visuals_official ]](https://www.instagram.com/kd.visuals_official/)
+[![Instagram:kd.visuals_official ](https://img.shields.io/badge/-kd.visuals_official-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kd.visuals_official/)]](https://www.instagram.com/kd.visuals_official/)
 [![Linkedin: KevinDworschak](https://img.shields.io/badge/-kevindworschak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevindworschak/)](https://www.linkedin.com/in/kevindworschak/)
 [![GitHub Kefmaister](https://img.shields.io/github/followers/kefmaister?label=follow&style=social)](https://github.com/kefmaister)
 
