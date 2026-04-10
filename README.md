@@ -7,18 +7,56 @@
 
 <p>
   <em>
-    Junior SAP Technical Consultant<br/>
+    Junior SAP Technical Consultant at Capgemini Belgium<br/>
     Tech enthusiast with a passion for automations, clean code & great UX
   </em>
 </p>
 
+---
+
+## 📋 Professional Autobiography
+
+**Company:** Capgemini Belgium
+
+**Current Projects:** Farys, Pidpa, Bosa
+
+### Competency Area Performance
+
+#### People Orientation
+- **Strong** — You are transparent in your work and maintain a good balance between independently solving/researching issues and asking for help.
+- **Strong** — You proactively switched from a physical notebook to OneNote when recurring questions appeared. This initiative eliminated those repetitive questions.
+- **Strong** — You navigate well and have strong relationships with colleagues across the team.
+
+#### Knowledge & Experience
+**Technical Skills Developed:**
+- Git (Expert), GitHub Actions, Freestyle UI5 (Expert), Fiori Elements, Fiori Extension Projects, SAP RAP CDS, SAP RAP Annotations (Expert), SAP GW-Services, OData v2 & v4 (Expert), SAP FLP, SAP BTP neo HTML5 Widgets (Expert)
+
+**Work Approach:**
+- **Strong** — You don't just execute tasks—you want to understand the technical details of what you're doing.
+- **⚠️ Caution** — Be mindful when using AI tools (Copilot) for large code blocks. Limit usage to small snippets. (Ref: 1000053611 APP 3)
+
+#### Delivery
+- **Strong** — You deliver work within the scheduled timeframe.
+- **⚠️ Caution** — In KIR (Keep-It-Running) contexts, focus on fixing broken functionality. Flag implementation issues requiring functional changes for approval. (Ref: 1000049088)
+- **Strong** — Successfully delivered the challenging Farys Foundation project, serving as the first point of contact for front-end errors and maintaining transparent communication. (Ref: 1000046984)
+
+#### External Orientation
+- **Strong** — Excellent communication and professional attitude toward Farys stakeholders.
+- **Strong** — Provides appropriate feedback on SolMan tickets.
+
+#### Company Culture & Values
+- **Strong** — Effectively uses Capgemini-provided tools and platforms.
+- **Strong** — Shares knowledge internally (e.g., Fiori Elements Project Setup documentation in BAS).
+
+---
+
 ### 🌐 Connect with me
 
-<https://img.shields.io/badge/-kd.visuals_official-E4405F?style=flat-square&logo=instagram&logoColor=white](https://www.instagram.com/kd.visuals_official/)>
-<https://img.shields.io/badge/-kevindworschak-blue?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/kevindworschak/)>
-<https://img.shields.io/github/followers/kefmaister?label=Follow&style=social](https://github.com/kefmaister)>
+[![Instagram Badge](https://img.shields.io/badge/-kd.visuals_official-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kd.visuals_official/)
+[![LinkedIn Badge](https://img.shields.io/badge/-kevindworschak-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevindworschak/)
+[![GitHub Badge](https://img.shields.io/github/followers/kefmaister?label=Follow&style=social)](https://github.com/kefmaister)
 
-### <https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif> A little more about me...
+### ![About me](https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif) A little more about me...
 
 ```javascript
 const kevin = {
@@ -55,5 +93,6 @@ const kevin = {
 };
 ```
 
-<https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif> <em> <b>I love connecting with different people</b> —\
-feel free to reach out on my socials or collaborate on something cool 🚀 </em>
+![Connecting with people](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+
+<em><b>I love connecting with different people</b> — feel free to reach out on my socials or collaborate on something cool 🚀</em>
